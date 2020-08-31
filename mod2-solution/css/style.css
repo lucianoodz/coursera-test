@@ -27,6 +27,7 @@ h1{
 
 h2{
 	color: yellow;
+	text-shadow: 2px 2px 8px black;
 }
 
 section{
@@ -38,6 +39,10 @@ section{
 	border: 5px solid black;
 	text-align: center;
 	overflow: auto;
+}
+section:hover{
+	background-color: #656C63; 
+	cursor: grab;
 }
 
 div{
