@@ -39,10 +39,6 @@ section{
 	text-align: center;
 	overflow: auto;
 }
-section:hover{
-	background-color: green; 
-	cursor: grab;
-}
 
 div{
 	border: 2px solid blue;
@@ -54,7 +50,9 @@ p{
 	text-align: left;
 	clear: both;
 }
-
+footer{
+	color: #2EFE00;
+}
 
 
 
